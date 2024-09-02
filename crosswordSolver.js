@@ -15,7 +15,8 @@ function checkDouble(words){
         j = i+2
         i++
     }
-    return "Success"
 }
+
+
 // let words = ['casa', 'alan', 'ciao', 'anta','casa']
 // console.log(checkDouble(words))
