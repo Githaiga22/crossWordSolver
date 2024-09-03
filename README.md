@@ -77,5 +77,4 @@ console.log(crosswordSolver(emptyPuzzle, words));
 5. Conversion to Output: The final grid is converted back to the required string format for output.
 
 ## Authors
-- jowala
 - allkamau
